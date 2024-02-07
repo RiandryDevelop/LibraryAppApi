@@ -1,0 +1,11 @@
+# Ignore google.services.json
+google.services.json
+
+# Ignore .env file
+.env
+
+# Ignore libraryFirebaseCredentials.json
+libraryFirebaseCredentials.json
+
+# Ignore node_modules directory
+node_modules/

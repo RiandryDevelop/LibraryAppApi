@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "243815873104",
+    "project_id": "librarydb-12e35",
+    "storage_bucket": "librarydb-12e35.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:243815873104:android:95ff4910f22e7dea41ef55",
+        "android_client_info": {
+          "package_name": "com.Rdeveloper.LibraryApp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDns6-QuvxW-y3w3CjCqGxEaKYkw5DRkb4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
